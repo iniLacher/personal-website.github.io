@@ -843,6 +843,9 @@ span {
 }
 
 @media (max-width: 462px) {
+  .home {
+    background-position-x: 610px;
+  }
   .home-content h1 {
     font-size: 4.2rem;
   }
@@ -860,9 +863,10 @@ span {
   }
 }
 
-@media (max-width: 371px) {
+@media (max-width: 380px) {
   .home {
     justify-content: center;
+    background-position-x: 610px;
   }
   .home-content {
     display: flex;
