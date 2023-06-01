@@ -866,7 +866,7 @@ span {
 @media (max-width: 380px) {
   .home {
     justify-content: center;
-    background-position-x: 610px;
+    background-position-x: 60%;
   }
   .home-content {
     display: flex;
@@ -875,6 +875,9 @@ span {
     text-align: center;
   }
 
+  .myproject .card img {
+    height: 30vh;
+  }
   .home-content h1 {
     font-size: 3rem;
   }
