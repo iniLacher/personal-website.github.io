@@ -844,7 +844,7 @@ span {
 
 @media (max-width: 462px) {
   .home {
-    background-position-x: 610px;
+    background-position-x: 60%;
   }
   .home-content h1 {
     font-size: 4.2rem;
