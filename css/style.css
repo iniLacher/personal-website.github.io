@@ -373,8 +373,8 @@ span {
 
 .myproject .card img {
   margin: auto;
-  width: 98%;
-  height: 98%;
+  width: 100%;
+  height: 300px;
   margin-bottom: 2rem;
   image-orientation: flip;
   border-radius: 0.6rem;
